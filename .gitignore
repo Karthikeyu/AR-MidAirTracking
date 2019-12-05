@@ -5,6 +5,9 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+#Mac
+.DS_Store
+
 # Visual Studio cache directory
 .vs/
 
@@ -32,5 +35,4 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
 *.unitypackage
